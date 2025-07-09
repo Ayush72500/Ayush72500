@@ -15,21 +15,35 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+ <!-- HTML -->
+<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="24" />
+
+<!-- CSS -->
+<img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="24" />
+
+<!-- JavaScript -->
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="24" />
+
+<!-- React -->
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="24" />
+
+<!-- Express -->
+<img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="24" />
+
+<!-- Python -->
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="24" />
+
+<!-- Java -->
+<img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="24" />
+
+<!-- MongoDB -->
+<img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="24" />
+
+<!-- Git -->
+<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="24" />
+
+<!-- GitHub -->
+<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="24" />
 </div>
 
 ###
