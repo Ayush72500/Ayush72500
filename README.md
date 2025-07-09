@@ -34,7 +34,7 @@
 <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="24" />
 
 <!-- Java -->
-<img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="24" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="24" />
 
 <!-- MongoDB -->
 <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="24" />
