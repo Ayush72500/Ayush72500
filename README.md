@@ -39,11 +39,8 @@
 <!-- MongoDB -->
 <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="24" />
 
-<!-- Git -->
-<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="24" />
-
 <!-- GitHub -->
-<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="24" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" />
 </div>
 
 ###
