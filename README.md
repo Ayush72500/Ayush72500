@@ -92,3 +92,26 @@ A travel platform designed to help users discover destinations, explore tours an
 </p>
 
 ---
+
+### 📄 Resume Screening — Resume Role Classification System
+
+A Python-based resume screening application that analyzes uploaded resumes and identifies the most relevant job role based on skills and resume content.
+
+**Highlights**
+- 📄 PDF resume upload and text extraction
+- 🔍 Automated skill detection and analysis
+- 🎯 Classification across 10 tech and non-tech roles
+- 📊 Role-wise matching scores and primary role detection
+- 📋 Matched skills and resume analysis
+- 🖥️ Simple and clean Streamlit interface
+
+**Tech:** Python · Streamlit · PyPDF · Regex · Git/GitHub
+
+<p>
+  <a href="https://github.com/Ayush72500/Resume-Screening-WebApp">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://resume-screening-webapp07.streamlit.app/
+    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify" />
+  </a>
+</p>
