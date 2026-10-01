@@ -111,7 +111,7 @@ A Python-based resume screening application that analyzes uploaded resumes and i
   <a href="https://github.com/Ayush72500/Resume-Screening-WebApp">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://resume-screening-webapp07.streamlit.app/
-    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify" />
+  <a href="https://resume-screening-webapp07.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=streamlit" />
   </a>
 </p>
