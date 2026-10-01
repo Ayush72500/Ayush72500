@@ -65,3 +65,30 @@
 </div>
 
 ###
+
+## 🚀 Featured Projects
+
+### 🌍 Cosmo Travel — Travel Booking Platform
+
+A travel platform designed to help users discover destinations, explore tours and manage bookings.
+
+**Highlights**
+- 🌎 Tour and destination listings
+- 🏨 Travel booking functionality
+- 💰 Budget-oriented travel suggestions
+- 📍 City-based travel guides
+- 📋 Booking history
+- 🗄️ MongoDB Atlas backend
+
+**Tech:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS
+
+<p>
+  <a href="https://github.com/Ayush72500/Cosmo-Travel">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://cosmotravel.netlify.app">
+    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify" />
+  </a>
+</p>
+
+---
